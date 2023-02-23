@@ -49,9 +49,12 @@
         width: 95%;
         margin: 0 auto;
     }
+    .col-xs-12{
+        width: 100%;
+    }
 }
 @media (min-width: 992px) {
-    .column1, .column2, .column3{
+    #menu-item{
         /* margin-right: auto; */
         margin: 0 auto;
         width: 30%;
